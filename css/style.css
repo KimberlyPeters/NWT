@@ -1,0 +1,116 @@
+.quality{
+	font-family: arial;
+	background-color: #314558;
+	height: 180px;
+}
+
+.find{
+	font-family: arial;
+	float: right;
+	font-weight: lighter;
+	font-size: 16px;
+	color: white;
+}
+
+.nav a{
+	text-decoration: none;
+	color: white;
+	font-weight: lighter;
+	font-size: 20px;
+	padding-right: 146px;
+}
+
+.quality h1{
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.entry{
+ 	background-color: #814181;
+ 	height:572px;
+ 	color: yellow;
+ 	font-size: 16px;
+ 	padding: 20px;
+}
+
+ .entry h3{
+ 	color: #d8cb3b;
+	font-size: 17px;
+	font-family: arial;
+}	
+
+.row{
+	background-color: #814181;
+ 	height:306px;
+ 	padding: 10px;
+}
+
+.row h2{
+	font-size: 24px;
+	font-weight: bold;
+	color: khaki;
+}
+
+.row h3{
+	font-size: 18px;
+	font-weight: lighter;
+}
+
+ .imgz{
+ 	height: 375px !important;
+ }
+
+ .story{
+ 	background-color: #814181;
+ 	height:572px;
+ 	padding: 20px;
+}
+
+.story p{
+	font-weight: bold;
+	color: lavenderblush;
+	font-family: arial;
+	font-size: 18px;
+}
+
+.dir a{
+	text-decoration: none;
+	color: yellow;
+	font-weight: bold;
+	font-size: 20px;
+	padding-right: 130px;
+}
+
+.story h2{
+	color: khaki;
+	font-size: 18px;
+	font-weight: lighter;
+	font-family: arial;
+}
+
+.lmao a{
+	text-decoration: none;
+	color: #ed104f;
+	font-size: 22px;
+	font-weight: bold;
+	font-family: arial;
+}
+
+.lmao h1{
+	color: yellow;
+}
+
+.don{
+ 	background-color: #814181;
+ 	padding: 20px;
+ 	color: white;
+ 	font-size: 16px;
+ 	font-family: arial;
+ }
+
+ .don h2{
+ 	color: grey;
+ 	font-family: arial;
+ 	font-weight: bold;
+ 	font-size: 24px;
+ }
